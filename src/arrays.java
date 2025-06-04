@@ -8,8 +8,7 @@ public class arrays {
         }
         return -1;
     }
-
-
+    
     public static int largerstSmallest(int number[]) {
         int larger = Integer.MIN_VALUE;
         int smallest = Integer.MAX_VALUE;
