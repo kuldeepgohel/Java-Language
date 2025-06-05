@@ -6,7 +6,7 @@ public class Main  {
         Scanner sc = new Scanner(System.in);
         int choice;
         do {
-            System.out.println("*========= Library Managment System =========*");
+            System.out.println("*========= Library Management System =========*");
             System.out.println("1.Add Book");
             System.out.println("2.View Books");
             System.out.println("3.Search Book");
